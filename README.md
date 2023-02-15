@@ -1,2 +1,2 @@
 # graphs
- A tool to create graphs from .csv files.
+ A tool to create and visualise graphs from .csv files.
